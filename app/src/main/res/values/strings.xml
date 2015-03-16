@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Empaca</string>
+    <string name="action_settings">Settings</string>
+    <string name="load_info">Actualizando Lista de Categorias</string>
+    <string name="load_info_sub">Actualizando Lista de Subcategorias</string>
+    <string name="error_load">No fue posible conectar con el servidor, verifique su conexión a Internet</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_activity_second">Empaca</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>
